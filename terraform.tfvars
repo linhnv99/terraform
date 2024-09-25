@@ -1,3 +1,3 @@
 #default variable
 
-bucket_name="bucket-default"
+project_name = "Demo Terraform"
